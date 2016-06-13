@@ -1,7 +1,7 @@
 Name: sramapuram
 Born In : India
 <<<<<<< HEAD
-favorite colour: Teal
+favorite colour:red
 =======
 addline
 >>>>>>> add-readme
